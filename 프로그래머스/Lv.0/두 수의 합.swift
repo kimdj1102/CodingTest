@@ -1,4 +1,6 @@
-[문제링크] (https://school.programmers.co.kr/learn/courses/30/lessons/120802)
+/**
+    [문제링크](https://school.programmers.co.kr/learn/courses/30/lessons/120802)
+*/
 
 import Foundation
 
